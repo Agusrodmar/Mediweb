@@ -1,0 +1,5 @@
+<?php
+
+echo "Ejemplo de mensaje en php";
+
+?>
