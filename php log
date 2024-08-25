@@ -1,5 +1,10 @@
 <?php
 
+/*
+* Esto es un comentario de más 
+* de una linea
+*/
+
 echo "Ejemplo de mensaje en php";
 
 ?>
